@@ -1,0 +1,9 @@
+
+
+# Load bootloader symbols
+set confirm off
+    add-symbol-file /Users/martinvizcaino/lab10-freertos-veldig/build/bootloader/bootloader.elf
+set confirm on
+
+# Load application symbols
+file /Users/martinvizcaino/lab10-freertos-veldig/build/embedded_os_lab.elf

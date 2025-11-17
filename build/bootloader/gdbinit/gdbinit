@@ -1,0 +1,2 @@
+source /Users/martinvizcaino/lab10-freertos-veldig/build/bootloader/gdbinit/symbols
+source /Users/martinvizcaino/lab10-freertos-veldig/build/bootloader/gdbinit/connect

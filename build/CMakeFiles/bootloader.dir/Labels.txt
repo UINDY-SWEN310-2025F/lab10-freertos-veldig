@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/Users/martinvizcaino/lab10-freertos-veldig/build/CMakeFiles/bootloader
+/Users/martinvizcaino/lab10-freertos-veldig/build/CMakeFiles/bootloader.rule
+/Users/martinvizcaino/lab10-freertos-veldig/build/CMakeFiles/bootloader-complete.rule
+/Users/martinvizcaino/lab10-freertos-veldig/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/Users/martinvizcaino/lab10-freertos-veldig/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/Users/martinvizcaino/lab10-freertos-veldig/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/Users/martinvizcaino/lab10-freertos-veldig/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/Users/martinvizcaino/lab10-freertos-veldig/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/Users/martinvizcaino/lab10-freertos-veldig/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/Users/martinvizcaino/lab10-freertos-veldig/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

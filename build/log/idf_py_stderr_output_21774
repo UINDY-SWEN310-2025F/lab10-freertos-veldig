@@ -1,0 +1,22 @@
+Command: cmake -G Ninja -DPYTHON_DEPS_CHECKED=1 -DPYTHON=/Library/Developer/CommandLineTools/usr/bin/python3 -DESP_PLATFORM=1 -DCCACHE_ENABLE=0 /Users/martinvizcaino/lab10-freertos-veldig
+Configuration Report                                                                                                                        
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── 
+   Parser Version: 1                                                                                                                        
+   Verbosity: default                                                                                                                       
+   Defaults policy: sdkconfig                                                                                                               
+   Status: Finished with notifications                                                                                                      
+                                                                                                                                            
+  Miscellaneous                                                                                                                             
+   ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────   
+    * Trying to set symbol COMPILER_ORPHAN_SECTIONS_WARNING to n, but it is currently selected by choice COMPILER_ORPHAN_SECTIONS. For      
+    setting it to n, set another choice symbol to y instead.                                                                                
+   ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────   
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── 
+CMake Warning at /Users/martinvizcaino/esp/v5.5.1/esp-idf/tools/cmake/gdbinit.cmake:52 (message):
+  Error while generating esp_rom gdbinit
+Call Stack (most recent call first):
+  /Users/martinvizcaino/esp/v5.5.1/esp-idf/tools/cmake/project.cmake:356 (__generate_gdbinit)
+  /Users/martinvizcaino/esp/v5.5.1/esp-idf/tools/cmake/project.cmake:974 (__project_info)
+  CMakeLists.txt:6 (project)
+
+
